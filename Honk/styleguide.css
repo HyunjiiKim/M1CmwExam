@@ -1,0 +1,136 @@
+/*Background Color*/
+
+    .BlackBG{
+        background-color: #212121; /*(33,33,33)*/
+    }
+
+    .WhiteBG{
+        background-color: #FEFCF3; /*(254,252,243)*/
+    }
+
+    .Primary1BG{
+        background-color: #12372A; /*(18,55,42)*/
+    }
+
+    .Primary2BG{
+        background-color: #436850; /*(67,104,80)*/
+    }
+
+    .Primary3BG{
+        background-color: #ADBC9F; /*(173,188,159)*/
+    }
+
+    .Secondary1BG{
+        background-color: ##AD632A; /*(173,99,42)*/
+    }
+
+    .Secondary2BG{
+        background-color: ##EAA976; /*(234,169,118)*/
+    }
+
+    .Secondary3BG{
+        background-color: ###FDDDB7; /*(253,221,183)*/
+    }
+
+    .Accent1BG{
+        background-color: ##FFEE31; /*(255,238,49)*/
+    }
+
+    .Accent2BG{
+        background-color: ##FFE66C; /*(255,230,108)*/
+    }
+
+    .Accent3BG{
+        background-color: #FFEFA0; /*(255,239,160)*/
+    }
+
+
+
+
+
+
+/*Text*/
+    /*Font*/
+
+    h1{
+        font-size: 72pt;
+    }
+
+    h2{
+        font-size: 48pt;
+    }
+
+    h3{
+        font-size: 28pt;
+    }
+
+    h4{
+        font-size: 24pt;
+    }
+
+    h5{
+        font-size: 18pt;
+    }
+
+    p, .para{
+        font-size: 16pt;
+    }
+
+
+
+
+        
+        @font-face {
+            font-family: Honk;
+            src: url() format('tiff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+    /*Text Color*/
+        .Black{
+            color: #212121; /*(33,33,33)*/
+        }
+
+        .White{
+            color: #FEFCF3; /*(254,252,243)*/
+        }
+
+        .Primary1{
+            color: #12372A; /*(18,55,42)*/
+        }
+
+        .Primary2{
+            color: #436850; /*(67,104,80)*/
+        }
+
+        .Primary3{
+            color: #ADBC9F; /*(173,188,159)*/
+        }
+
+        .Secondary1{
+            color: ##AD632A; /*(173,99,42)*/
+        }
+
+        .Secondary2{
+            color: ##EAA976; /*(234,169,118)*/
+        }
+
+        .Secondary3{
+            color: ###FDDDB7; /*(253,221,183)*/
+        }
+
+        .Accent1{
+            color: ##FFEE31; /*(255,238,49)*/
+        }
+
+        .Accent2{
+            color: ##FFE66C; /*(255,230,108)*/
+        }
+
+        .Accent3{
+            color: #FFEFA0; /*(255,239,160)*/
+        }
+
+
+/**/
